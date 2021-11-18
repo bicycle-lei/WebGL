@@ -2,3 +2,12 @@ body {
     margin: 0;
     padding: 0;
 }
+.info {
+    position: fixed;
+	top: 10px;
+	width: 100%;
+	text-align: center;
+	z-index: 100;
+	display:block;
+    color: red;
+}
